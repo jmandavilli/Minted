@@ -3,7 +3,7 @@
 <h3>Make sure you follow these instructions, very important once we start getting into things.</h3>
 
 Git Usage: </br>
-When you start working: <\br>
+When you start working: </br>
   git pull
 Once you are done: </br>
 1) git add file1 file2 ... </br>
