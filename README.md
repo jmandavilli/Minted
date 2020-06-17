@@ -11,3 +11,4 @@ Once you are done: </br>
 2) git commit -m "commit description" 
 3) git push
 
+* Use git status to check for which files you have modified/added before adding and after adding
